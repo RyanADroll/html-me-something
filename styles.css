@@ -1,0 +1,69 @@
+body {
+    background-color: lightslategray
+}
+section {
+    background-color: lime;
+    padding: 15px;
+    margin: 10px 0px
+}
+.events {
+    font-size: 30px
+}
+footer {
+    text-align: right;
+    background-color: dimgrey;
+}
+address {
+    margin: 0px 5px;
+}
+h1 {
+    font-size: 42px
+}
+a {
+    color: lime
+}
+a:hover {
+    color: orangered
+}
+p {
+    margin: 25px 200px;
+    font-size: 21px
+}
+figcaption, footer {
+    font-size: 18px
+}
+h2, h3 {
+    text-decoration: underline
+}
+.names {
+    font-size: 22px
+}
+.index_title {
+    text-align: center;
+    font-size: 50px
+}
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center
+}
+.site_nav {
+    font-size: 30px;
+    padding: 25px;
+    background-color: dimgrey
+}
+.site_nav a {
+    padding: 14px;
+}
+li {
+    padding: 10px;
+    text-indent: -45px;
+}
+ul {
+    list-style: none;
+}
+footer p {
+    margin: 10px 5px;
+}
+img {
+    border: 3px double black
+}
